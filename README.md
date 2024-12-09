@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NanGyeThote
+- 👋 Hi, I’m Creator Shota
 - 👀 I’m interested in ... developing mobiles, websites and AI models.
 - 🌱 I’m currently learning ... computer vision and machine learning.
 - 💞️ I’m looking to collaborate on ... Discord.
