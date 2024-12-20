@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 💬 Ask me about **AI and Myanmar**
 - 📫 How to reach me: **kywzinth3nt@gmail.com**
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
 
 ## 🛠️ Technologies & Tools
