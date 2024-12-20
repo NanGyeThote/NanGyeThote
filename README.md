@@ -24,14 +24,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Insert your latest blog post title](insert your blog post link) -->
+- None
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Projects
-- [Project Name](insert project link) - Brief description of the project.
-- [Project Name](insert project link) - Brief description of the project.
+- [SkyPals]((https://github.com/NanGyeThote/portfolio.git)) - Airplane ticket reservation system using Java & Spring.
 
-## ⭐️ Starred Repositories
-- [Repository Name](insert repository link) - Brief description of the repository.
-- [Repository Name](insert repository link) - Brief description of the repository.
+## ⭐️ Starred Repositories and AI Projects
+- [PictoNet](https://github.com/NanGyeThote/PictoNet.git) - AI images classification project using ResNet50 and Streamlit.
+- [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) - Python 2D game using pure Python and built-in GUI.
 
 Thanks for visiting my profile! 😊
