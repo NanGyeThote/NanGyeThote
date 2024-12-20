@@ -3,25 +3,23 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[insert technology or subject you're learning]**
-- 👯 I’m looking to collaborate on **[insert projects or interests]**
-- 💬 Ask me about **[insert topics you are comfortable discussing]**
-- 📫 How to reach me: **[insert your contact information]**
+- 🌱 I’m currently learning **Artificial Intelligence and Software Engineering**
+- 👯 I’m looking to collaborate on **Machine Learning**
+- 💬 Ask me about **AI and Myanmar**
+- 📫 How to reach me: **kywzinth3nt@gmail.com**
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: **[insert a fun fact about yourself]**
+- ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: **[insert languages you use]**
-- Frameworks & Libraries: **[insert frameworks and libraries you use]**
-- Tools & Platforms: **[insert tools and platforms you use]**
+- Programming Languages: **JavaEE, Python, MySQL, PHP**
+- Frameworks & Libraries: **[Spring, NgularJS, React, Laravel]**
+- Tools & Platforms: **[Eclipse, VSCode]**
 
 ## 📈 GitHub Stats
 ![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username]/)
-- [Twitter](https://twitter.com/[your-twitter-username])
-- [Email](mailto:[your-email-address])
+- [Email](mailto:[kywzinth3nt@gmail.com])
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
