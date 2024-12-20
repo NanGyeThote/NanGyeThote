@@ -29,9 +29,13 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🔧 Projects
 - [SkyPals](https://github.com/NanGyeThote/portfolio.git) - Airplane ticket reservation system using Java & Spring.
+- [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) - Python 2D game using pure Python and built-in GUI.
+- [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) - Python 2D game using pure Python and built-in GUI.
 
 ## ⭐️ Starred Repositories and AI Projects
 - [PictoNet](https://github.com/NanGyeThote/PictoNet.git) - AI images classification project using ResNet50 and Streamlit.
-- [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) - Python 2D game using pure Python and built-in GUI.
+- [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) - This is AI & Real-time Object Detection Project using YOLOv8.
+- [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) - This is AI & Computer Vision Text-to-Image Generation Project using Stable Diffusion.
+- [Tomato-Object-Detection](https://github.com/NanGyeThote/Tomato-Object-Detection.git) - This is AI & Computer Vision Tomato Object Detection Project using YOLOv8.
 
 Thanks for visiting my profile! 😊
