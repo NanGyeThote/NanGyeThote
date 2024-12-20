@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 I’m currently learning **Artificial Intelligence and Software Engineering**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 💬 Ask me about **AI and Myanmar**
-- 📫 How to reach me: **kywzinth3nt@gmail.com**
+- 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- [Email](mailto:[kywzinth3nt@gmail.com])
+- [Email](mailto:[thant.ict.phyomg0107@gmail.com])
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
