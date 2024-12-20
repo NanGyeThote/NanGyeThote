@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here's a little about me:
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Projects
-- [SkyPals]((https://github.com/NanGyeThote/portfolio.git)) - Airplane ticket reservation system using Java & Spring.
+- [SkyPals](https://github.com/NanGyeThote/portfolio.git) - Airplane ticket reservation system using Java & Spring.
 
 ## ⭐️ Starred Repositories and AI Projects
 - [PictoNet](https://github.com/NanGyeThote/PictoNet.git) - AI images classification project using ResNet50 and Streamlit.
