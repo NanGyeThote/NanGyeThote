@@ -12,8 +12,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🛠️ Technologies & Tools
 - Programming Languages: **JavaEE, Python, MySQL, PHP**
-- Frameworks & Libraries: **[Spring, NgularJS, React, Laravel]**
-- Tools & Platforms: **[Eclipse, VSCode]**
+- Frameworks & Libraries: **Spring, NgularJS, React, Laravel**
+- Tools & Platforms: **Eclipse, VSCode**
 
 ## 📈 GitHub Stats
 ![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Insert your latest blog post title](insert your blog post link)
+<!-- - [Insert your latest blog post title](insert your blog post link) -->
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Projects
