@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - Tools & Platforms: **Eclipse, VSCode**
 
 ## 📈 GitHub Stats
-![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical&v=2)
+![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 - [Email](mailto:[thant.ict.phyomg0107@gmail.com])
