@@ -33,6 +33,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) - Python 2D game using pure Python and built-in GUI.
 
 ## ⭐️ Starred Repositories and AI Projects
+- [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) - AI images classification with real-time chatbot project using ResNet50, groq API and Streamlit.
 - [PictoNet](https://github.com/NanGyeThote/PictoNet.git) - AI images classification project using ResNet50 and Streamlit.
 - [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) - This is AI & Real-time Object Detection Project using YOLOv8.
 - [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) - This is AI & Computer Vision Text-to-Image Generation Project using Stable Diffusion.
