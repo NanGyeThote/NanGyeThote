@@ -31,6 +31,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - [SkyPals](https://github.com/NanGyeThote/portfolio.git) - Airplane ticket reservation system using Java & Spring.
 - [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) - Python 2D game using pure Python and built-in GUI.
 - [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) - Python 2D game using pure Python and built-in GUI.
+- [Vote-Mal](https://github.com/NanGyeThote/Vote-Mal.git) - Voting management system using PHP, HTML, CSS, JS and Database. Voting system for all.
 
 ## ⭐️ Starred Repositories and AI Projects
 - [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) - AI images classification with real-time chatbot project using ResNet50, groq API and Streamlit.
