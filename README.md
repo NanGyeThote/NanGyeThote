@@ -31,19 +31,29 @@ Welcome to my GitHub profile! Here's a little about me:
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Projects
-- [SkyPals](https://github.com/NanGyeThote/portfolio.git) - Airplane ticket reservation system using Java & Spring.
-- [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) - Python 2D game using pure Python and built-in GUI.
-- [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) - Python 2D game using pure Python and built-in GUI.
-- [Vote-Mal](https://github.com/NanGyeThote/Vote-Mal.git) - Voting management system using PHP, HTML, CSS, JS and Database. Voting system for all.
+
+| Project       | Description                                                                                  | Technologies                |
+|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
+| [SkyPals](https://github.com/NanGyeThote/portfolio.git) | Airplane ticket reservation system.                                           | Java, Spring               |
+| [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) | Python 2D game using pure Python and built-in GUI.                           | Python                     |
+| [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) | Python 2D game using pure Python and built-in GUI.                           | Python                     |
+| [Vote-Mal](https://github.com/NanGyeThote/Vote-Mal.git) | Voting management system for all.                                            | PHP, HTML, CSS, JS, DB     |
 
 ## ⭐️ Starred Repositories and AI Projects
-- [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) - AI images classification with real-time chatbot project using ResNet50, groq API and Streamlit.
-- [PictoNet](https://github.com/NanGyeThote/PictoNet.git) - AI images classification project using ResNet50 and Streamlit.
-- [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) - This is AI & Real-time Object Detection Project using YOLOv8.
-- [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) - This is AI & Computer Vision Text-to-Image Generation Project using Stable Diffusion.
-- [Tomato-Object-Detection](https://github.com/NanGyeThote/Tomato-Object-Detection.git) - This is AI & Computer Vision Tomato Object Detection Project using YOLOv8.
+
+| Project       | Description                                                                                  | Technologies                |
+|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
+| [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) | AI images classification with real-time chatbot using ResNet50 and groq API. | ResNet50, groq API, Streamlit |
+| [PictoNet](https://github.com/NanGyeThote/PictoNet.git) | AI images classification project using ResNet50 and Streamlit.                | ResNet50, Streamlit        |
+| [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) | Real-time object detection project.                                           | YOLOv8                     |
+| [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) | AI text-to-image generation project using Stable Diffusion.                   | Stable Diffusion           |
+| [Tomato-Object-Detection](https://github.com/NanGyeThote/Tomato-Object-Detection.git) | AI-based tomato object detection using YOLOv8.                                | YOLOv8                     |
 
 ## 🎵 Entertainment & Funtivity 🎯
-- [Python-Lyrics](https://github.com/NanGyeThote/Python---Lyrics.git) - A fun Python script that visually displays the chorus of the song "Bad Girls Like U" with colored text and a typing effect. Each line of the chorus is printed in a specific color for a vibrant and engaging output.
+
+| Project       | Description                                                                                  | Technologies                |
+|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
+| [Python-Lyrics](https://github.com/NanGyeThote/Python---Lyrics.git) | A Python script that displays the chorus of "Bad Girls Like U" with colored text and a typing effect. | Python                     |
+
 
 Thanks for visiting my profile! 😊
