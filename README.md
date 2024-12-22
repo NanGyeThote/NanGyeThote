@@ -40,4 +40,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) - This is AI & Computer Vision Text-to-Image Generation Project using Stable Diffusion.
 - [Tomato-Object-Detection](https://github.com/NanGyeThote/Tomato-Object-Detection.git) - This is AI & Computer Vision Tomato Object Detection Project using YOLOv8.
 
+## 🎵 Entertainment & Funtivity 🎯
+- [Python-Lyrics](https://github.com/NanGyeThote/Python---Lyrics.git) - A fun Python script that visually displays the chorus of the song "Bad Girls Like U" with colored text and a typing effect. Each line of the chorus is printed in a specific color for a vibrant and engaging output.
+
 Thanks for visiting my profile! 😊
