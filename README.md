@@ -1,4 +1,4 @@
-# Hi there, I'm NanGyeThote 👋
+# Hi there, I'm Shin Thant Phyo 👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
