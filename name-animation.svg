@@ -1,0 +1,32 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="black">
+    <tspan fill="red" id="name-part1">YourName1</tspan>
+    <tspan fill="blue" id="name-part2" style="display: none;">YourName2</tspan>
+    <tspan fill="green" id="name-part3" style="display: none;">YourName3</tspan>
+  </text>
+  <style>
+    @keyframes typeAnimation {
+      0%, 33.33% {
+        visibility: visible;
+      }
+      33.34%, 66.66% {
+        visibility: hidden;
+      }
+      66.67%, 100% {
+        visibility: hidden;
+      }
+    }
+
+    #name-part1 {
+      animation: typeAnimation 3s linear infinite;
+    }
+
+    #name-part2 {
+      animation: typeAnimation 3s linear infinite 1s;
+    }
+
+    #name-part3 {
+      animation: typeAnimation 3s linear infinite 2s;
+    }
+  </style>
+</svg>
