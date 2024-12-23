@@ -1,4 +1,4 @@
-<img src="assets/name-animation.svg" alt="Name Animation" width="500" />
+<img src="name-animation.svg" alt="Name Animation" width="500" />
 
 # Hi there, I'm Shin Thant Phyo 👋
 
