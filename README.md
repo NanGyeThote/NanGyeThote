@@ -35,7 +35,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)  
-![Beans](https://img.shields.io/badge/-Beans-6A4E1F?style=flat-square&logo=apachebeans&logoColor=white)
 
 ## 📈 GitHub Stats
 ![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
