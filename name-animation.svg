@@ -1,0 +1,32 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Arial, sans-serif">
+    <tspan fill="#FF5733" id="name-part1">Welcome from my GitHub!</tspan>
+    <tspan fill="#3498DB" id="name-part2" style="display: none;">I am an AI Engineer</tspan>
+    <tspan fill="#2ECC71" id="name-part3" style="display: none;">I am a Software Engineer</tspan>
+  </text>
+  <style>
+    @keyframes typeAnimation {
+      0%, 33.33% {
+        visibility: visible;
+      }
+      33.34%, 66.66% {
+        visibility: hidden;
+      }
+      66.67%, 100% {
+        visibility: hidden;
+      }
+    }
+
+    #name-part1 {
+      animation: typeAnimation 3s linear infinite;
+    }
+
+    #name-part2 {
+      animation: typeAnimation 3s linear infinite 1s;
+    }
+
+    #name-part3 {
+      animation: typeAnimation 3s linear infinite 2s;
+    }
+  </style>
+</svg>
