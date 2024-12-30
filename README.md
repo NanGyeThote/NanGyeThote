@@ -58,8 +58,9 @@ Welcome to my GitHub profile! Here's a little about me:
   University of Information Technology, Yangon (3rd Year), specializing in Software Engineering and AI Engineering
 - **Simbolo**  
   Specializing in AI, Machine Learning and Computer Vision
-- **Code-Wall**
+- **Code-Wall**  
   Studied Web Development and JavaEE + Spring Development
+  
 
 ## 🏆 Achievements
 - **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
