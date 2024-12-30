@@ -55,8 +55,11 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🎓 Education
 - **Bachelor of Computer Science**  
-  University of Information Technology, Yangon (3rd Year)  
-  Specializing in AI, Web Development, and Software Engineering
+  University of Information Technology, Yangon (3rd Year), specializing in Software Engineering and AI Engineering
+- **Simbolo**  
+  Specializing in AI, Machine Learning and Computer Vision
+- **Code-Wall**
+  Studied Web Development and JavaEE + Spring Development
 
 ## 🏆 Achievements
 - **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
@@ -69,6 +72,10 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Information Technology Passport Examination**  
   Issued by [IT Professional Examination Council and Myanmar Computer Federation] (7 Dec 2023)
   Successful Examiness No. MMIP23A00516
+- **Introduction to Software Engineering Using JavaSE**  
+  Issued by [KMD] (25 June 2022)
+- **A+ Computer Skill**  
+  Issued by [YGN Net] (8 Mar 20220
 
 ## 🔧 Projects
 
