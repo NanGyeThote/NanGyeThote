@@ -76,7 +76,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Introduction to Software Engineering Using JavaSE**  
   Issued by [KMD] (25 June 2022)
 - **A+ Computer Skill**  
-  Issued by [YGN Net] (8 Mar 20220
+  Issued by [YGN Net] (8 Mar 2022
 
 ## 🔧 Projects
 
