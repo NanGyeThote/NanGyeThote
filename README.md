@@ -45,7 +45,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Git-wrapped Status](img1.png)
 
 # 📫 Connect with Me
-- [Email](mailto:thant.ict.phyomg0107@gmail.com)
+- **Email**: [thant.ict.phyomg0107@gmail.com](mailto:thant.ict.phyomg0107@gmail.com)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
