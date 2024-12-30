@@ -44,14 +44,31 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📊 Git-Wrapped Status
 ![Git-wrapped Status](img1.png)
 
-## 📫 Connect with me
-- [Email](mailto:[thant.ict.phyomg0107@gmail.com])
+# 📫 Connect with Me
+- [Email](mailto:thant.ict.phyomg0107@gmail.com)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Insert your latest blog post title](insert your blog post link) -->
 - None
 <!-- BLOG-POST-LIST:END -->
+
+## 🎓 Education
+- **Bachelor of Computer Science**  
+  University of Information Technology, Yangon (3rd Year)  
+  Specializing in AI, Web Development, and Software Engineering
+
+## 🏆 Achievements
+- **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
+- **Hackathon Participation**: Participated in ROSATOM Hackatom Myanmar 2024, organized by State Atomic Energy Corporation ROSATOM, National Research Nuclear University MEPhI and Yangon Technological University.
+- **Myanmar 100th Enginnering Hackathon**: Participated in innovative solutions for handling waste in smart city.
+  
+## 📜 Certifications
+- **Certificate of Excellence: AI & Large Language Model(LLM) Certification**  
+  Issued by [Samsung] (31 Aug 2024)
+- **Information Technology Passport Examination**  
+  Issued by [IT Professional Examination Council and Myanmar Computer Federation] (7 Dec 2023)
+  Successful Examiness No. MMIP23A00516
 
 ## 🔧 Projects
 
