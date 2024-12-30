@@ -77,7 +77,7 @@ Welcome to my GitHub profile! Here's a little about me:
 | Project       | Description                                                                                  | Technologies                |
 |---------------|----------------------------------------------------------------------------------------------|-----------------------------|
 | [Python-Lyrics](https://github.com/NanGyeThote/Python---Lyrics.git) | A Python script that displays the chorus of "Bad Girls Like U" with colored text and a typing effect. | Python                     |
-| [Bucket-List-Planner](https://github.com/NanGyeThote/Bucket-List-Planner.git) | A simple and interactive web application to manage your bucket list tasks. | Python                     |
+| [Bucket-List-Planner](https://github.com/NanGyeThote/Bucket-List-Planner.git) | A simple and interactive web application to manage your bucket list tasks. | Front-end                     |
 
 
 Thanks for visiting my profile! 😊
