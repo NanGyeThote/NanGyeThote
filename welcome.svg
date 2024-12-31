@@ -1,0 +1,25 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="Arial, sans-serif" fill="#FF5733">
+    Welcome to My GitHub!
+  </text>
+  <style>
+    @keyframes fadeInScale {
+      0% {
+        opacity: 0;
+        transform: scale(0.5);
+      }
+      50% {
+        opacity: 1;
+        transform: scale(1.2);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    text {
+      animation: fadeInScale 3s ease-in-out forwards;
+    }
+  </style>
+</svg>
