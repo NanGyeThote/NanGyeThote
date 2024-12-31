@@ -1,0 +1,45 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Arial, sans-serif">
+    <tspan id="name-part1" fill="#FF5733"></tspan>
+    <tspan id="name-part2" fill="#3498DB" style="visibility: hidden;"></tspan>
+    <tspan id="name-part3" fill="#2ECC71" style="visibility: hidden;"></tspan>
+  </text>
+  <style>
+    @keyframes typewriter {
+      0% { width: 0; }
+      100% { width: 100%; }
+    }
+
+    #name-part1, #name-part2, #name-part3 {
+      white-space: nowrap;
+      overflow: hidden;
+      display: inline-block;
+      width: 0;
+      animation: typewriter 3s steps(30) 1s forwards;
+    }
+
+    #name-part2 {
+      animation-delay: 5s;
+    }
+
+    #name-part3 {
+      animation-delay: 10s;
+    }
+
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 28px;
+      fill: #000;
+    }
+  </style>
+
+  <script>
+    const part1 = "Welcome to my GitHub!";
+    const part2 = "I am an AI Engineer";
+    const part3 = "I am a Software Engineer";
+    
+    document.getElementById("name-part1").textContent = part1;
+    document.getElementById("name-part2").textContent = part2;
+    document.getElementById("name-part3").textContent = part3;
+  </script>
+</svg>
