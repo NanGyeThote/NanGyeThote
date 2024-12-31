@@ -1,3 +1,5 @@
+![Animated Banner](name-animation.svg)
+
 # Hi there, I'm Shin Thant Phyo 👋
 
 Welcome to my GitHub profile! Here's a little about me:
