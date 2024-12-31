@@ -1,5 +1,3 @@
-<img src="name-animation.svg" alt="Name Animation" width="500" />
-
 # Hi there, I'm Shin Thant Phyo 👋
 
 Welcome to my GitHub profile! Here's a little about me:
