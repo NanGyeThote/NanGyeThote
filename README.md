@@ -42,9 +42,6 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📈 GitHub Stats
 ![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
 
-## 📊 Git-Wrapped Status
-![Git-wrapped Status](img1.png)
-
 # 📫 Connect with Me
 - **Email**: [thant.ict.phyomg0107@gmail.com](mailto:thant.ict.phyomg0107@gmail.com)
 
