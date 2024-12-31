@@ -1,4 +1,4 @@
-![Animated Banner](name.svg?v=2)
+![Animated Banner](name_static.svg?v=2)
 
 # Hi there, I'm Shin Thant Phyo 👋
 
