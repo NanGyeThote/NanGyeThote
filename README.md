@@ -47,8 +47,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Insert your latest blog post title](insert your blog post link) -->
-- None
+[Text-To-Image-Generation](https://app.readytensor.ai/publications/visionary_text_ai-powered_image_creation_M8DTkcrYzlqf)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎓 Education
