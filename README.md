@@ -67,14 +67,14 @@ Welcome to my GitHub profile! Here's a little about me:
   
 ## 📜 Certifications
 - **Certificate of Excellence: AI & Large Language Model(LLM) Certification**  
-  Issued by Samsung (31 Aug 2024)
+  - Issued by Samsung (31 Aug 2024)
 - **Information Technology Passport Examination**  
   - Issued by IT Professional Examination Council and Myanmar Computer Federation (7 Dec 2023) 
   - Successful Examiness No. MMIP23A00516
 - **Introduction to Software Engineering Using JavaSE**  
-  Issued by KMD (25 June 2022)
+  - Issued by KMD (25 June 2022)
 - **A+ Computer Skill**  
-  Issued by YGN Net (8 Mar 2022
+  - Issued by YGN Net (8 Mar 2022
 
 ## 🔧 Projects
 
