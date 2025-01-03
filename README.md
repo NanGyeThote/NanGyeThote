@@ -1,4 +1,4 @@
-![Animated Banner](welcome.svg?v=2)
+![image](https://github.com/user-attachments/assets/eae719ab-0387-439a-a321-073f1f6bd348)![Animated Banner](welcome.svg?v=2)
 
 # Hi there, I'm Shin Thant Phyo 👋
 
@@ -13,6 +13,8 @@ Welcome to my GitHub profile! Here's a little about me:
 - 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
+- 📗 I am now learning about **Djangon** and other **Back-end Framework**
+
 
 ## 🛠️ Technologies & Tools
 
