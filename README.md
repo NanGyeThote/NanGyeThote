@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eae719ab-0387-439a-a321-073f1f6bd348)![Animated Banner](welcome.svg?v=2)
+![Animated Banner](welcome.svg?v=2)
 
 # Hi there, I'm Shin Thant Phyo 👋
 
