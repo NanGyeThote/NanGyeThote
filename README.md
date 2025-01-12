@@ -91,6 +91,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 | Project       | Description                                                                                  | Technologies                |
 |---------------|----------------------------------------------------------------------------------------------|-----------------------------|
+| [Spam-Email-Detection-System](https://github.com/NanGyeThote/Spam-Email-Detection-System.git) | The system leverages machine learning models to predict the category of the input message. | Random Forest, Logistic Regression, Support Vector Machine (SVM) |
 | [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) | AI images classification with real-time chatbot using ResNet50 and groq API. | ResNet50, groq API, Streamlit |
 | [PictoNet](https://github.com/NanGyeThote/PictoNet.git) | AI images classification project using ResNet50 and Streamlit.                | ResNet50, Streamlit        |
 | [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) | Real-time object detection project.                                           | YOLOv8                     |
