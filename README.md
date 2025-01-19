@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 - 🌱 I’m currently learning **Artificial Intelligence and Software Engineering**
 - 🏫 I'm a third year **Computer Science** student at the **University of Information Technology, Yangon**
-- 🏢 I'm currently working as **Backend Web Developer** at **Astetude Design Studio**
+- 🏢 I'm currently working as **AI Engineer(Intern)** at **Simbolo**
 - 👯 I’m looking to collaborate on **Machine Learning**
 - 💬 Ask me about **AI and Myanmar**
 - 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**
