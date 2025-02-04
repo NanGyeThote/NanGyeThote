@@ -70,9 +70,9 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Ready Tensor Computer Vision Expo 2024**: Submit Publication and application about text-to-image generation.
   
 ## 📜 Certifications
--**Fundamental Engineering**  
+-**Fundamental Information Technology Engineering**  
   - Issued by IT Professional Examination Council and Myanmar Computer Federation (29 Jan 2025) 
-  - Successful Examiness No. MMFE24A00224
+    - Successful Examiness No. MMFE24A00224
 - **Certificate of Excellence: AI & Large Language Model(LLM) Certification**  
   - Issued by Samsung (31 Aug 2024)
 - **Information Technology Passport Examination**  
