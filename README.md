@@ -67,6 +67,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
 - **Hackathon Participation**: Participated in ROSATOM Hackatom Myanmar 2024, organized by State Atomic Energy Corporation ROSATOM, National Research Nuclear University MEPhI and Yangon Technological University.
 - **Myanmar 100th Enginnering Hackathon**: Participated in innovative solutions for handling waste in smart city.
+- **Ready Tensor Computer Vision Expo 2024**: Submit Publication and application about text-to-image generation.
   
 ## 📜 Certifications
 - **Certificate of Excellence: AI & Large Language Model(LLM) Certification**  
