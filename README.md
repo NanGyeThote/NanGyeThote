@@ -6,15 +6,16 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**
-- 🏫 I'm a third year **Computer Science** student at the **University of Information Technology, Yangon**
-- 🏢 I'm currently working as an **AI Engineer(Intern)** at **Simbolo**
+- 🏫 I'm a fourth year **Computer Science, Knowledge Engineering** student at the **University of Information Technology, Yangon**
+- 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**
 - ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 🏢 Former **AI Engineer(Intern)** at **Simbolo**
+- 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**
 - 💬 Ask me about **AI and Myanmar**
 - 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
-- 📗 I am now learning about **Django** and other **Back-end Framework**
+- 📗 I am now learning about **ML/DL, GenAI, Django** and other **Back-end Framework**
 
 
 ## 🛠️ Technologies & Tools
@@ -64,6 +65,7 @@ Welcome to my GitHub profile! Here's a little about me:
   
 
 ## 🏆 Achievements
+- **Code2Career Myanmar "Job Matching" Hackathon 2024**: Won Code2Career 2024 Myanmar with digitalized, AI-integrated and innovative E-commence web project.
 - **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
 - **Hackathon Participation**: Participated in ROSATOM Hackatom Myanmar 2024, organized by State Atomic Energy Corporation ROSATOM, National Research Nuclear University MEPhI and Yangon Technological University.
 - **Myanmar 100th Enginnering Hackathon**: Participated in innovative solutions for handling waste in smart city.
