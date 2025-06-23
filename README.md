@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 Learning AI, Machine Learning & Software Engineering
-🏢 R&D Intern at Language Understanding Lab
-⚡ AI Engineer Intern (Computer Vision) at Swam Arr Electronics
-👯 Looking to collaborate on Machine Learning & Burmese NLP projects
+🌱 Learning AI, Machine Learning & Software Engineering <br>
+🏢 R&D Intern at Language Understanding Lab <br>
+⚡ AI Engineer Intern (Computer Vision) at Swam Arr Electronics <br>
+👯 Looking to collaborate on Machine Learning & Burmese NLP projects 
 <br>
 
 
