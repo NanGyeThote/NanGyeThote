@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**
-- 🏫 I'm a **Computer Science, Knowledge Engineering** student at the **University of Information Technology, Yangon**
 - 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**
 - ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**
 - 🏢 Former **AI Engineer(Intern)** at **Simbolo**
