@@ -37,11 +37,11 @@
 - 🥇 **Samsung Innovation Campus AI Hackathon 2024**  
   Won with project **"Freshify"** — contributing innovative AI/ML solutions.
 
-- 🤖 **ROSATOM Hackatom Myanmar 2024**  
-  Participated in a national hackathon organized by ROSATOM, MEPhI, and YTU.
+- 🤖 **ASEAN 3rd Cyber Shield Participant**  
+  Participated in an ASEAN Cyber Shield Course by Korea.
 
-- 🧠 **Myanmar 100th Engineering Hackathon**  
-  Contributed ideas for waste management in smart cities.
+- 🧠 **World Engineering Hackathon**  
+  Contributed ideas for women in diversity.
 
 - 🧾 **Ready Tensor Computer Vision Expo 2024**  
   Submitted publication and demo on **Text-to-Image Generation** using generative AI.
