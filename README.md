@@ -41,7 +41,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NanGyeThote&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 Contribution Snake
+## 🐍 Snake Commit!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NanGyeThote/NanGyeThote/output/github-contribution-grid-snake-dark.svg">
