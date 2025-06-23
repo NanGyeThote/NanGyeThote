@@ -29,6 +29,23 @@
   </tr>
 </table>
 
+## 🏆 Achievements
+
+- 🥇 **Code2Career Myanmar "Job Matching" Hackathon 2024**  
+  Won with a digitalized, AI-integrated, and innovative e-commerce web project.
+
+- 🥇 **Samsung Innovation Campus AI Hackathon 2024**  
+  Won with project **"Freshify"** — contributing innovative AI/ML solutions.
+
+- 🤖 **ROSATOM Hackatom Myanmar 2024**  
+  Participated in a national hackathon organized by ROSATOM, MEPhI, and YTU.
+
+- 🧠 **Myanmar 100th Engineering Hackathon**  
+  Contributed ideas for waste management in smart cities.
+
+- 🧾 **Ready Tensor Computer Vision Expo 2024**  
+  Submitted publication and demo on **Text-to-Image Generation** using generative AI.
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NanGyeThote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
