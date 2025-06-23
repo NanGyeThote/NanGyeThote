@@ -6,11 +6,11 @@
 👯 Looking to collaborate on Machine Learning & Burmese NLP projects
 </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="robot dance" />
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/langs?username=NanGyeThote&layout=compact&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
 </div>
 
 ## 🌐 Socials:
