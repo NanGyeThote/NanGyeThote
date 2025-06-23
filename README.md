@@ -1,27 +1,21 @@
-<table>
-  <tr>
-    <!-- Column 1: About Me -->
-    <td valign="top" width="33%" style="padding-right: 20px;">
-      <h2>💫 About Me:</h2>
-      <p>🌱 Learning AI, Machine Learning & Software Engineering</p>
-      <p>🏢 R&D Intern at Language Understanding Lab</p>
-      <p>⚡ AI Engineer Intern (Computer Vision) at Swam Arr Electronics</p>
-      <p>👯 Looking to collaborate on Machine Learning & Burmese NLP projects</p>
-    </td>
-    <!-- Column 2: Streak Stats SVG -->
-    <td valign="top" width="100%" style="text-align:center;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-    <!-- Column 3: Add your third section here -->
-    <td valign="top" width="33%" style="padding-left: 20px;">
-      <!-- For example: another SVG, badges, or fun fact -->
-      <h2>🔥 Other Stats</h2>
-      <!-- Replace below with your actual content -->
-      <p>More cool stuff here!</p>
-    </td>
-  </tr>
-</table>
+<h2 align="left">Hi 👋! My name is Pyae Linn and I'm a Computer Science student with a strong foundation in core CS principles and a deep passion for Artificial Intelligence.</h2>
 
+###
+
+<h2 align="left">Hi 👋! I'm Shin Thant Phyo.</h2>
+<p align="left">
+🌱 Learning AI, Machine Learning & Software Engineering<br>
+🏢 R&D Intern at Language Understanding Lab<br>
+⚡ AI Engineer Intern (Computer Vision) at Swam Arr Electronics<br>
+👯 Looking to collaborate on Machine Learning & Burmese NLP projects
+</p>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shin-thant-phyo-320725326)
