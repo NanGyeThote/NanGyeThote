@@ -1,115 +1,24 @@
-![Animated Banner](welcome.svg?v=2)
-
-# Hi there, I'm Shin Thant Phyo 👋
-
-Welcome to my GitHub profile! Here's a little about me:
-
-## 🚀 About Me
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**
-- 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**
-- ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**
-- 🏢 Former **AI Engineer(Intern)** at **Simbolo**
-- 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**
-- 💬 Ask me about **AI and Myanmar**
-- 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**
-- 📗 I am now learning about **ML/DL, GenAI, Django** and other **Back-end Framework**
+# 💫 About Me:
+🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**<br>- 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**<br>- 🏫 I'm a fourth year, Knowledge Engineering student at UIT.<br>- ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**<br>- 🏢 Former **AI Engineer(Intern)** at **Simbolo**<br>- 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**<br>- 💬 Ask me about **AI and Myanmar**<br>- 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: **I love to read manga, watch anime and support Manchester United!**<br>- 📗 I am now learning about **ML/DL, GenAI, Django** and other **Back-end Framework**
 
 
-## 🛠️ Technologies & Tools
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shin-thant-phyo-320725326) 
 
-### Programming Languages  
-![JavaEE](https://img.shields.io/badge/-JavaEE-007396?style=flat-square&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NanGyeThote&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NanGyeThote&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Frameworks & Libraries  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NanGyeThote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Tools & Platforms  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B2B?style=flat-square&logo=streamlit&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 📈 GitHub Stats
-![NanGyeThote's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGyeThote&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=NanGyeThote&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📫 Connect with Me
-- **Email**: [thant.ict.phyomg0107@gmail.com](mailto:thant.ict.phyomg0107@gmail.com)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-[🖼️ Text-To-Image-Generation](https://app.readytensor.ai/publications/visionary_text_ai-powered_image_creation_M8DTkcrYzlqf)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎓 Education
-- **Bachelor of Computer Science**  
-  University of Information Technology, Yangon (3rd Year), specializing in Software Engineering and AI Engineering
-- **Simbolo**  
-  Specializing in AI, Machine Learning and Computer Vision
-- **Code-Wall**  
-  Studied Web Development and JavaEE + Spring Development
-  
-
-## 🏆 Achievements
-- **Code2Career Myanmar "Job Matching" Hackathon 2024**: Won Code2Career 2024 Myanmar with digitalized, AI-integrated and innovative E-commence web project.
-- **Samsung Innovation Campus**: Won Samsung AI Hackathon Myanmar 2024 with project called "Freshify" and contributed to innovative solutions in AI and machine learning.
-- **Hackathon Participation**: Participated in ROSATOM Hackatom Myanmar 2024, organized by State Atomic Energy Corporation ROSATOM, National Research Nuclear University MEPhI and Yangon Technological University.
-- **Myanmar 100th Enginnering Hackathon**: Participated in innovative solutions for handling waste in smart city.
-- **Ready Tensor Computer Vision Expo 2024**: Submit Publication and application about text-to-image generation.
-  
-## 📜 Certifications
-- **Fundamental Information Technology Engineering**  
-  - Issued by IT Professional Examination Council and Myanmar Computer Federation (29 Jan 2025) 
-  - Successful Examiness No. MMFE24A00224
-- **Certificate of Excellence: AI & Large Language Model(LLM) Certification**  
-  - Issued by Samsung (31 Aug 2024)
-- **Information Technology Passport Examination**  
-  - Issued by IT Professional Examination Council and Myanmar Computer Federation (7 Dec 2023) 
-  - Successful Examiness No. MMIP23A00516
-- **Introduction to Software Engineering Using JavaSE**  
-  - Issued by KMD (25 June 2022)
-- **A+ Computer Skill**  
-  - Issued by YGN Net (8 Mar 2022
-
-## 🔧 Projects
-
-| Project       | Description                                                                                  | Technologies                |
-|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
-| [SkyPals](https://github.com/NanGyeThote/portfolio.git) | Airplane ticket reservation system.                                           | Java, Spring               |
-| [Space-Fighter](https://github.com/NanGyeThote/Space-Fighter.git) | Python 2D game using pure Python and built-in GUI.                           | Python                     |
-| [Snake-Game](https://github.com/NanGyeThote/SnakeGame.git) | Python 2D game using pure Python and built-in GUI.                           | Python                     |
-| [Vote-Mal](https://github.com/NanGyeThote/Vote-Mal.git) | Voting management system for all.                                            | PHP, HTML, CSS, JS, DB     |
-
-## ⭐️ Starred Repositories and AI Projects
-
-| Project       | Description                                                                                  | Technologies                |
-|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
-| [Spam-Email-Detection-System](https://github.com/NanGyeThote/Spam-Email-Detection-System.git) | The system leverages machine learning models to predict the category of the input message. | Random Forest, Logistic Regression, Support Vector Machine (SVM) |
-| [Classification With Chatbot](https://github.com/NanGyeThote/Classification-with-chatbot.git) | AI images classification with real-time chatbot using ResNet50 and groq API. | ResNet50, groq API, Streamlit |
-| [PictoNet](https://github.com/NanGyeThote/PictoNet.git) | AI images classification project using ResNet50 and Streamlit.                | ResNet50, Streamlit        |
-| [Object-Detection-YOLOv8](https://github.com/NanGyeThote/Object-Detection-Yolov8.git) | Real-time object detection project.                                           | YOLOv8                     |
-| [Text-To-Image-Generation](https://github.com/NanGyeThote/Text-To-Image-Generation.git) | AI text-to-image generation project using Stable Diffusion.                   | Stable Diffusion           |
-| [Tomato-Object-Detection](https://github.com/NanGyeThote/Tomato-Object-Detection.git) | AI-based tomato object detection using YOLOv8.                                | YOLOv8                     |
-
-## 🎵 Entertainment & Funtivity 🎯
-
-| Project       | Description                                                                                  | Technologies                |
-|---------------|----------------------------------------------------------------------------------------------|-----------------------------|
-| [Python-Lyrics](https://github.com/NanGyeThote/Python---Lyrics.git) | A Python script that displays the chorus of "Bad Girls Like U" with colored text and a typing effect. | Python                     |
-| [Bucket-List-Planner](https://github.com/NanGyeThote/Bucket-List-Planner.git) | A simple and interactive web application to manage your bucket list tasks. | Front-end                     |
-
-
-Thanks for visiting my profile! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
