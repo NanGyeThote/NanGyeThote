@@ -9,8 +9,8 @@
 <img align="right" height="150" src="https://media.tenor.com/Q0anovSbMjoAAAAm/fullcircle-skate.webp" alt="funny computer" />
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="130" />
 </div>
 
 ## 🌐 Socials:
