@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/langs?username=NanGyeThote&layout=compact&theme=dark" height="150" />
 </div>
 
 ## 🌐 Socials:
