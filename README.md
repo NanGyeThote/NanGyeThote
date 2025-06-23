@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NanGyeThote&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NanGyeThote&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="370" />
     </td>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=NanGyeThote&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=NanGyeThote&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="370" />
     </td>
   </tr>
 </table>
