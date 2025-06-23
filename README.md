@@ -9,7 +9,7 @@
       <p>👯 Looking to collaborate on Machine Learning & Burmese NLP projects</p>
     </td>
     <!-- Column 2: Streak Stats SVG -->
-    <td valign="top" width="100%" style="text-align:center;">
+    <td valign="top" width="100%" height="100%" style="text-align:center;">
       <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
     </td>
     <!-- Column 3: Add your third section here -->
