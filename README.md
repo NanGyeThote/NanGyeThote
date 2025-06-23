@@ -12,7 +12,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="130" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NanGyeThote&layout=compact&langs_count=6&theme=dark&hide_border=false" height="130" />
 </div>
----
+
+<hr>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shin-thant-phyo-320725326)
