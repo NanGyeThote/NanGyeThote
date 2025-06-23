@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**<br> 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**<br> ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**<br> 🏢 Former **AI Engineer(Intern)** at **Simbolo**<br> 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**<br>
+🌱 Learning AI, Machine Learning & Software Engineering
+🏢 R&D Intern at Language Understanding Lab
+⚡ AI Engineer Intern (Computer Vision) at Swam Arr Electronics
+👯 Looking to collaborate on Machine Learning & Burmese NLP projects
+<br>
 
 
 ## 🌐 Socials:
