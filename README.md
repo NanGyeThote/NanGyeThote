@@ -43,7 +43,7 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/PyaeLinn01/PyaeLinn01/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
