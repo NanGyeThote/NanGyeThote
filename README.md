@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Pyae Linn and I'm a Computer Science student with a strong foundation in core CS principles and a deep passion for Artificial Intelligence.</h2>
-
-###
-
 <h2 align="left">Hi 👋! I'm Shin Thant Phyo.</h2>
 <p align="left">
 🌱 Learning AI, Machine Learning & Software Engineering<br>
