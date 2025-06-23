@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**<br> 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**<br> ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**<br> 🏢 Former **AI Engineer(Intern)** at **Simbolo**<br> 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**<br> 📫 How to reach me: **thant.ict.phyomg0107@gmail.com**<br>
+🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Software Engineering**<br> 🏢 I'm currently working as an **Research & Development(Intern)** at **Language Understanding Lab**<br> ⚡ I'm currently working as an **AI Engineer(Intern) - Computer Vision** at **Swam Arr Electronics**<br> 🏢 Former **AI Engineer(Intern)** at **Simbolo**<br> 👯 I’m looking to collaborate on **Machine Learning & Burmese NLP Projects**<br>
 
 
 ## 🌐 Socials:
