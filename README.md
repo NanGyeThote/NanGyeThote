@@ -6,7 +6,7 @@
 👯 Looking to collaborate on Machine Learning & Burmese NLP projects
 </p>
 
-<img align="right" height="150" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="robot dance" />
+<img align="right" height="150" src="https://media.giphy.com/media/26gsgIq5q9S7Fsj6w/giphy.gif" alt="gaming celebration" />
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NanGyeThote&theme=dark&hide_border=false" height="150" />
