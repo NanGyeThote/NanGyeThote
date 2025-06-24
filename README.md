@@ -72,8 +72,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:40px;" />
 </a>
 
-<a href="https://www.kaggle.com/nangyethote" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=data:image/svg+xml;base64," style="height:40px;" />
+<a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png&logoColor=white" style="height:40px;" />
 </a>
 
 ### ✍️ Random Dev Quote
