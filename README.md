@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png&logoColor=white" style="height:40px;" />
 </a>
 
-<a href="https://medium.com/@your-username" target="_blank">
+<a href="https://medium.com/@kywzinth3nt" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="height:40px;" />
 </a>
 
