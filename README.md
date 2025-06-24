@@ -71,8 +71,9 @@
 <a href="https://www.linkedin.com/in/shin-thant-phyo-320725326" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height:40px;" />
 </a>
-<a href="https://www.kaggle.com/nangyethote" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" style="height:40px;" />
+
+<a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=data:image/svg+xml;base64," style="height:40px;" />
 </a>
 
 ### ✍️ Random Dev Quote
