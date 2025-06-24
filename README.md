@@ -77,7 +77,7 @@
 </a>
 
 <a href="https://medium.com/@your-username" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="height:40px;" />
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" style="height:40px;" />
 </a>
 
 ### ✍️ Random Dev Quote
